@@ -127,6 +127,25 @@ The server will receive, decrypt, and display the original message.
 - Incorporate secure authentication mechanisms.
 - Optimize GUI design for better usability.
 
+---
+
+## Contributor
+
+<!-- Contributor Block for Rajendra Pancholi -->
+<div style="text-align: center; margin: 15px; display: inline-block;">
+  <a href="https://github.com/rajendrapancholi" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/rajendrapancholi.png?size=100" 
+         width="100" 
+         style="border-radius: 50%; border: 2px solid #58a6ff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);"
+         alt="Rajendra Pancholi's GitHub profile">
+    <br />
+    <span style="display: inline-block; margin-top: 8px; font-weight: 600; color: #24292e;">
+      Rajendra Pancholi
+    </span>
+  </a>
+</div>
+
+---
 ## 🤝 Contact
 
 For any queries or feedback, feel free to reach out:
