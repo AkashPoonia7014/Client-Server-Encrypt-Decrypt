@@ -72,7 +72,7 @@ javac EncryptionServer.java EncryptionClientGUI.java
 
 ### Start the Server:
 
-Run the EncryptionServer class to start the server:
+Run the EncryptionServer class in a terminal to start the server:
 
 ```bash
 java EncryptionServer
@@ -82,7 +82,7 @@ This will open the server-side interface and prepare it to handle client request
 
 ### Start the Client:
 
-Run the EncryptionClientGUI class to launch the client-side GUI:
+After runing the EncryptionServer class open a new terminal and then run the EncryptionClientGUI class to launch the client-side GUI:
 
 ```bash
 java EncryptionClientGUI
@@ -127,26 +127,12 @@ The server will receive, decrypt, and display the original message.
 - Incorporate secure authentication mechanisms.
 - Optimize GUI design for better usability.
 
-## 🛠️ Contribution Guidelines
-
-We welcome contributions! If you'd like to improve existing solutions, add new ones, or fix bugs, please consider the following steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit them (`git commit -m 'Add feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
----
-
 ## 🤝 Contact
 
 For any queries or feedback, feel free to reach out:
 
-- **Rajendra Pancholi**: [rpancholi522@gmail.com](mailto:rpancholi522@gmail.com)
-- **Website**: [www.rajendrapancholi.com](https://rajendrapancholi.vercel.app/)
-- **LinkedIn**: [www.linkedin.com/in/rajendra-pancholi](https://www.linkedin.com/in/rajendra-pancholi-11a3a5286/)
+- **Akash Poonia**: [akashpoonia70144@gmail.com](mailto:akashpoonia70144@gmail.com)
+- **Website**: [www.akashpoonia.com](https://skyapps.vercel.app/)
+- **LinkedIn**: [www.linkedin.com/in/akash-poonia-916b28233/](https://www.linkedin.com/in/akash-poonia-916b28233/)
 
 ---
-
-Happy Coding Journey! 👨‍💻👩‍💻
